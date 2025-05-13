@@ -1,2 +1,2 @@
-# D2C
-Implementing decoupled data-based control (D2C) alogirthm
+# iLQRMethods
+Implementing some methods for solving high dimension PDEs through reduced order LQR
